@@ -1,0 +1,22 @@
+.home_gallery{
+    text-align: center;
+}
+
+.quote{
+    font-family: 'Cinzel', serif;
+    font-size: 140%;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: center;
+}
+
+.paintings{
+    margin: 20px;
+    width: 30%;
+    height: auto;
+}

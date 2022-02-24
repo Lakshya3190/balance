@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+}
+
+.menu{
+  font-size: 20px;
+}
+
+.menu-op{
+  margin: 10px;
+  cursor: pointer;
+}
+
+.editor-title{
+  font-size: 120px;
+}
+
+.textbox-title{
+  font-size: 50px;
+  margin: 0px;
+}
+
+.textbox-input{
+  width: 700px;
+}
